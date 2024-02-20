@@ -1,0 +1,371 @@
+---
+title: "Replication of Homeownership and Portfolio Choice over the Generations"
+author: 
+  - Kuiyao Qiao
+  - Alice Miao
+  - Gauravpreet Thind
+thanks: "Code and data are available at: https://github.com/QPP123/Replication-of-Homeownership-and-Portfolio-Choice-over-the-Generations
+DOI: 10.1257/mac.20200473"
+date: today
+date-format: long
+format: 
+    pdf:
+      fig-pos: H
+number-sections: true
+bibliography: ref.bib
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Table of contents
+
+Abstract……………………………………………………………………………………………………………………………………………………………pg.1
+
+Introduction……………………………………………………………………………………………………………………………………………………pg.2
+
+An Overview of Intergerational Changes: Explained with
+Related……………………………………………………………pg.2
+
+Estimated……………………………………………………………………………………………………………………………………………………………pg.2
+
+Data Analysis…………………………………………………………………………………………………………………………………………………pg.5
+
+Measurements…………………………………………………………………………………………………………………………………………………pg.6
+
+Results………………………………………………………………………………………………………………………………………………………………pg.6
+
+Discussion………………………………………………………………………………………………………………………………………………………pg.7
+
+Conclusion………………………………………………………………………………………………………………………………………………………pg.8
+
+Biography………………………………………………………………………………………………………………………………………………………pg.9
+
+# Abstract
+
+This study examines declining rates of home ownership across
+generations, focusing on changes in income risk and economic conditions
+between the 1940s, 1960s and 1980s. By using a life-cycle model with
+housing and portfolio choices that includes risks in earnings and asset
+prices, we show that changes in earnings dynamics relate to a large part
+of reductions of homeownership across generations. We found that changes
+in income mobility contribute significantly to the decline in
+homeownership rates. This trend particularly affects low-income
+households, preventing them from buying a home and saving money. Our
+findings highlight the significant impact of the financial status and
+economic environment on the different generations’ home-ownership and
+portfolio choices.
+
+# Introduction
+
+The landscape of American household ownership and financial stability
+has changed dramatically in recent decades (1940s to 1960s to 1980s),
+with rising income inequality and notable changes in savings choice at
+birth series have been marked. By using a cyclical model of household
+decisions in construction policy management under different economic
+conditions, we examine the effects of labor market development and
+financial market development on different groups. Our research reveals
+significant differences in the number of households, particularly
+affecting younger generations, which face greater income risk and
+adverse financial market conditions. The core of our analysis focuses on
+the hypothesis that changes in labor market earnings dynamics account
+for a substantial proportion of the decline in inter-generational
+homeownership. This study not only marks important gaps in understanding
+the relationship between income risk, investment decisions, and
+homeownership, but also sheds light on the broader implications of
+wealth inequality and monetary policy also on the. Through this study,
+we aim to provide insight into the mechanisms by which these changes are
+brought about, and thus create policy interventions that can mitigate
+adverse effects for future generations under the customs.
+
+# An Overview of Intergerational Changes: Explained with Related
+
+Literature Individuals born in the 1960s and 1980s experienced greater
+income inequality, higher income volatility, and higher average housing
+costs relative to the 1940s cohort has led to a decline in the number of
+homeowners but there has been a rise in savings but the increased
+participation of female workers has offset this trend somewhat,
+maintaining or increasing the middle income a are obtained for younger
+groups after 30 years. This reflects the rightward shift of the income
+distribution, with higher earners seeing larger gains, as opposed to
+stagnant or declining incomes at the lower end This change implies
+economic differences will widen in new groups from an early age.
+Moreover, younger groups face greater earnings volatility, attributed to
+labor market changes that differentially affect working hours and
+employment stability, suggesting subtle effects across labor force
+groups.（De Nardi, 2004) All of these economic differences between
+generations had caused inequality in savings and wealth accumulations in
+households, leading directly to difference in homeownership rates and
+differences in other investment behaviors such as stock market
+participation. (De Nardi et al, 2017)
+
+# Estimated
+
+In this study, our paper replicates the population that was used in
+“Homeownership and Portfolio Choice over the Generations” (Paz-Pardo
+2023) which mentions that the population differs between different
+datasets. According to the data retrieved from the paper, the
+generations born in the 1960s and 1980s, when compared to that of the
+1940s, have faced more earnings inequality, volatility, and on average
+more expensive housing costs. Showing that these people are less likely
+to become homeowners, but are more suited and likely to participate in
+the stock market.
+
+::: {#fig-1 layout-ncol="2"}
+![](WWW/Figure1a.png){#fig-surus1}
+
+![](WWW/Figure1b.png){#fig-hanno2}
+
+![](WWW/Figure1c.png){#fig-surus3}
+
+![](WWW/Figure1d.png){#fig-hanno4}
+
+![](WWW/Figure1e.png){#fig-hanno5}
+
+![](WWW/Figure1f.png){#fig-hanno6}
+
+Intergenerational changes. Top: median (left) and average (right)
+household earnings. Middle: standard deviation of the log earnings
+distribution (left), and standard deviation of log earnings changes
+(right). Bottom: homeownership (left) and stock market participation
+(right). PSID data (Panel Study of Income Dynamics, 2017), deflated
+using the CPI, stock market participation from SCF (Survey of Consumer
+Finances (2019) and Survey of Consumer Finances (1960 to 1986)).
+:::
+
+::: {#fig-2 layout-ncol="2"}
+![](WWW/Figure2a.png){#fig-surus7}
+
+![](WWW/Figure2b.png){#fig-hanno8}
+
+Evolution of house prices and asset returns. Left: median Price to
+Income (PTI) ratios for housing (PSID data). Right: Stock returns, S&P
+500, vs. growth in Federal Housing Finance Agency (FHFA) house price
+index. Shaded areas correspond to NBER recessions.
+:::
+
+# Data Analysis
+
+The article presents a comprehensive analysis of intergenerational
+changes in homeownership, earnings inequality, and financial portfolio
+choices, utilizing data from the Panel Study of Income Dynamics (PSID)
+and Survey of Consumer Finances (SCF). Figures 1 and 2 in the paper
+illustrate key empirical findings:
+
+Figure 1 depicts median and average household earnings by age and
+cohort, alongside the standard deviation of earnings and changes in
+earnings, showcasing the increased earnings inequality and volatility
+across generations. It also illustrates trends in homeownership and
+stock market participation rates, highlighting a decline in
+homeownership and an increase in stock market participation among
+younger cohorts.
+
+Figure 2 focuses on the evolution of house prices and asset returns,
+specifically the median Price to Income (PTI) ratios for housing and the
+comparison between stock returns and Federal Housing Finance Agency
+(FHFA) house price index growth. This figure underscores the growing
+challenge of housing affordability and the cyclical nature of asset
+returns, which have varied implications across different cohorts.
+
+The paper thoroughly discusses the broader context of these datasets,
+explaining the construction and cleaning of variables while emphasizing
+the destination of the analysis rather than the methodological journey.
+It acknowledges alternative datasets that could have been used but
+justifies the chosen data sources based on their relevance and
+comprehensiveness for the study's objectives. Summary statistics and
+discussions on the relationship between variables provide insights into
+the underlying trends and shifts in the economic landscape affecting
+homeownership and portfolio choices across generations.
+
+# Measurements
+
+This paper replicates the life-cycle structural model that was created
+to evaluate the changes in earning and financial conditions with
+different age groups. This model evaluates the changes in earnings and
+financial conditions described in each demographic and can account for
+different intergenerational contrasts in homeownership and portfolios.
+The life-cycle model shows that the economy is populated by a continuum
+of households and the perspective of a cohort, and time is indexed in a
+period of two years.The demographic measurements retrieved from the
+paper shows that households born in the model at age 25, end up retiring
+at the age of 60 and results in them facing positive and increasing
+death probabilities starting at the age of 25. Concluding that people in
+these demographics certainly die at the age of 86. An average
+demographic profile at each age is introduced in the model with a taste
+shifter, which represents the average OECD equivalence scale at each age
+and generates age-varying marginal utility from nondurable housing
+consumption.
+
+# Results
+
+In figure 1, people’s average and median household earnings, standard
+deviation of earnings distribution and earnings change, proportion of
+homeownership, and stock market participation are all presented in line
+graphs.
+
+According to our findings, in graph (a) and (b) of figure 1, for people
+aged 25, people in the 1940s have the highest median household earrings
+and average household earnings among the six decades (1940s, 1960s, and
+1980s). The average and median household earnings for eople aged 25 in
+the 1960s and 1980s were both less than those people in the 1940s.
+
+For graph (c), people at all ages, people living in the 1940s had the
+lowest standard deviation of earnings distribution, which implies that
+during this period, there was less variability or disparity in the
+amounts of money people earned.
+
+Also, for graph (d), people aged 25 to 35, those who lived in the 1940s
+had the lowest standard deviation of earnings earnings change, meaning
+that the year-to-year fluctuations in income for individuals or
+households during that period were relatively small. In other words, the
+amount of money people earned from one year to the next tended to remain
+more consistent, with less variability in earnings increases or
+decreases, compared to later periods. This suggests a more stable
+economic environment for earnings during the 1940s, with fewer dramatic
+changes in individuals' financial situations from year to year. People
+aged 25 to 35 who lived in the 1940s had the lowest possibility of
+experiencing sudden significant loss or gain of income, same-age people
+lived in the 1960s had a higher possibility, and same-age people lived
+in the 1980s had the highest possibility.
+
+For graph (e), in the 1940s the proportion of home owners is the highest
+among the six decades (1940s, 1960s, 1980s). The proportion of
+homeownership across all ages decreased from 1940s to 1960, meaning that
+in the three decades more and more people were either not able to afford
+homeownership or they rather not to be a home owner.
+
+As for stock market participation, the graph (f) became more
+interesting: people lived in the 1940s did not have much interest in
+stock market at the age of 25, however their interests in stock market
+significantly increase as they aged. People in the 1960s, on the other
+hand, had greater interests in the stock market at 25 and their
+interests continue to significantly increase, however, their interests
+suddenly decrease at the age of around 40.
+
+In figure 2, it is about the evolution of house prices and asset
+returns. Graph (a) shows median Price to Income (PTI) ratios for housing
+(PSID data). Graph (b) shows stock returns, S&P 500, vs. growth in
+Federal Housing Finance Agency (FHFA) house price index. Shaded areas
+correspond to NBER recessions. It is obvious that the PTI ratios for
+housing has been steadily increasing, while the stock growth change is
+very unstable over the decades. This suggests that during the documented
+time (1970s to 2010s), real estate is a safer long-term investment
+choice for steady growth than stock markets.
+
+# Discussion
+
+1.  An interesting finding from both figure 1 and 2 is that although the
+    younger generations (1960s generations in particular) had a greater
+    risk of experiencing earnings changes, they still tended to put
+    their money in the stock market, which is statistically proven to be
+    more unstable and thus riskier than the housing market. In
+    comparison, the 1940s generation were less likely to experience
+    earnings change, and they were more likely to put their money in the
+    real estate market (be homeowners), and less likely to participate
+    in the stock market.
+
+2.  Correlation: The information replicated from the paper shows that
+    the graphs are successful in determining the replications of
+    portfolio patterns by wealth, showing that a standard portfolio
+    choice would yield stock holding patterns which are mildly
+    decreasing rather than increasing it with wealth and profit. The
+    role of housing and the correlation of labor income and stock
+    returns end up reducing the incentive of the income-poorer to
+    participate in the stock market. In contrast, with richer
+    individuals who have sufficient resources available even after
+    buying their homes and use these resources for investing purposes in
+    the stock market, in which they yield a greater return that results
+    in them being wealthier.
+
+3.  Strengths: The paper that was replicated does a fantastic job of
+    showing how the changes in earnings dynamics in different cohorts of
+    demographics have affected homeownership portfolio choice decisions.
+    By providing evidence that was retrieved from PSID and SCF data
+    dating all the way back to the 1960s, the strengths of the data can
+    determine that there has been a significant increase in household
+    earnings inequality and risk. Which both
+
+4.  Weaknesses: The paper’s findings suggest that intergenerational
+    changes are important for studies of household incomes in terms of
+    earnings, consumption, and wealth accumulation. In which, the paper
+    tries to show that the distribution of the economy is formed by many
+    different households who have lived through different events in the
+    past that impacted their personal economic growth in different
+    stages in their life. However, in terms of demographics, the paper
+    retrieves a significant portion of the data and information from the
+    older generation as the youngest household owner age in the paper is
+    the age of 25. In the current generation, homeownership is becoming
+    more common in North America beginning at the age of 18 which is the
+    legal age to own a house in both Canada and the United States. As
+    many young adults are becoming homeowners whether it would be
+    through the finances of their family or purchasing a house by
+    themselves when they move off to college or university in another
+    part of their country, becoming a homeowner is becoming more
+    relatively common as the new and current generations have access to
+    resources that allow them to become homeowners at a young age. Which
+    is something the paper could improve on in terms of expanding the
+    age group of homeowners in the current generation.\*\*
+
+# Conclusion
+
+In conclusion, homeownership rate and portfolio choices varied
+significantly between different generations in the 1940s, 1960s, and
+1960s. We found that people in the 1940s were the generation that had
+the least possibility of experiencing earnings change and they could own
+their home at the earliest age, while people in the 1980s were the
+generation that could experience the most earnings change and they were
+the oldest ages when owning their homes. We also found that people in
+the 1940s did not have much interest in the stock market - which is
+statistically proven to be riskier than the housing market, while people
+in the 1980s had a greater interest in stock markets before they were
+40. It is safe to suggest that people in the 1940s were in a more steady
+economic environment and thus they tend to be more conservative when it
+comes to money and investment, while people in the 1980s were in a more
+ever-changing environment and thus were more likely to become
+risk-takers when they were younger.
+
+Since housing is a necessity for all people, future monetary and housing
+policies should be introduced so that more young generations could
+afford to own their own houses at an earlier age. Since there are many
+resources that can allow for anyone to learn more about housing and
+stock market policies, it makes it much easier to become a homeowner at
+a young age. Concluding our findings by replicating the paper which
+shows that homeownership rate and portfolio choices vary in different
+generations and shows growth and decline depending on the homeowners
+income and economic situation at that time.
+
+# References
+
+R Core Team (2020). R: A language and environment for statistical
+computing. R Foundation for Statistical Computing, Vienna, Austria. URL:
+https://www.R-project.org/.
+
+@Manual{citeR, title = {R: A Language and Environment for Statistical
+Computing}, author = {{R Core Team}}, organization = {R Foundation for
+Statistical Computing}, address = {Vienna, Austria}, year = {2022}, url
+= {<https://www.R-project.org/%7D,> }
+
+Paz-Pardo, G. (2021). Homeownership and Portfolio Choice Over the
+Generations. SSRN Electronic Journal. url=
+{<https://doi.org/10.2139/ssrn.3797142/%7D,> }
+
+@misc{url =
+{<https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2522~7ad2cdbbb5.en.pdf%7D,>journal={Homeownership
+and portfolio choice over the generations}}
+
+De Nardi, M. (2004). Wealth inequality and intergenerational links.
+Review of Economic Studies, 71, 743–768.
+
+De Nardi, M., & Fella, G. (2017). Saving and wealth inequality. Review
+of Economic Dynamics, 26, 280–300.
+
+De Nardi, M., Fella, G., & Paz-Pardo, G. (2020). Nonlinear household
+earnings dynamics, self-insurance, and welfare. Journal of the European
+Economic Association, 18(2), 890–926.
+
+ECB Working Paper Series. (n.d.). Homeownership and portfolio choice
+over the generations. Retrieved from
+https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2522\~7ad2cdbbb5.en.pdf
+url=
+{<https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2522~7ad2cdbbb5.en.pdf%7D,>
+}
